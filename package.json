@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Internationalize your app.",
   "main": "build/index.js",
+  "keywords": ["internationalization", "i18n", "react-text", "react text translator", "translate react text", "text translator"],
   "scripts": {
     "build": "babel lib -d build --ignore '**/*.test.js'",
     "lint": "eslint lib/**; exit 0",
