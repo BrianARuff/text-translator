@@ -6,7 +6,7 @@ How to use?
 
 2. `<TranslateText content={{"en-US": "hello world"}} />`
 
-Note: The data you pass into the `content` prop should be an object structured like step 2 above. You should be using the official language codes as this library draws from the browsers `navigator.languages` for the users locale. Here is a list of country locale codes.
+Note: The data you pass into the `content` prop should be an object structured like step 2 above. You should be using the official language codes as this library draws from the browsers `navigator.languages` for the users locale. Capitalization is important here. Here is a list of country locale codes.
 
 `["af", "sq", "ar-SA", "ar-IQ", "ar-EG", "ar-LY", "ar-DZ", "ar-MA", "ar-TN", "ar-OM",
  "ar-YE", "ar-SY", "ar-JO", "ar-LB", "ar-KW", "ar-AE", "ar-BH", "ar-QA", "eu", "bg",

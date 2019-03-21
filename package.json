@@ -1,6 +1,6 @@
 {
   "name": "text-translator",
-  "version": "0.0.1",
+  "version": "0.0.13",
   "description": "Internationalize your app.",
   "main": "build/index.js",
   "keywords": ["internationalization", "i18n", "react-text", "react text translator", "translate react text", "text translator"],
